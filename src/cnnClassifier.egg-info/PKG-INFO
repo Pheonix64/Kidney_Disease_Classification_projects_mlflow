@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: cnnClassifier
+Version: 0.0.0
+Summary: A small python package for CNN app using tensorflow's API
+Home-page: https://github.com/Pheonix64/Kidney_Disease_Classification_projects_mlflow
+Author: Pheonix64
+Author-email: sofianeissoufou002@gmail.com
+Project-URL: Bug Tracker, https://github.com/Pheonix64/Kidney_Disease_Classification_projects_mlflow/issues
+License-File: LICENSE
+
+# Kidney_Disease_Classification_projects_mlflow
+Kidney disease classification
